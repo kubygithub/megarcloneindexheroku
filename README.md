@@ -10,7 +10,7 @@ Mega.nz-Rclone-Index-Heroku
 Serves mega.nz to http via heroku web.
 This creates a backdoor for mega storage and serves publicly.
 
-[HEROKU RAPID DEPLOYMENT AVAILABLE](https://dashboard.heroku.com/new?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku) without froking or github account.
+[HEROKU RAPID DEPLOYMENT AVAILABLE](https://dashboard.heroku.com/new?template=https://github.com/kubygithub/megarcloneindexheroku) without froking or github account.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/developeranaz/Mega.nz-Rclone-Index-Heroku)
 
